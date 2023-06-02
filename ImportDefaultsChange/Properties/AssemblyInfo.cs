@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ImportDefaultsChange")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("AlexW-578")]
 [assembly: AssemblyProduct("ImportDefaultsChange")]
 [assembly: AssemblyCopyright("Copyright © AlexW-578 2023")]
 [assembly: AssemblyTrademark("")]
